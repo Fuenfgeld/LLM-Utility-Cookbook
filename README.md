@@ -1,4 +1,4 @@
-# LLM-Utility-Cookbook 🍽️📚
+# LLM-Utility-Cookbook
 
 Hello, future LLM enthusiasts! Welcome to the LLM-Utility-Cookbook, a place where we'll explore, understand, and play with a myriad of tools and techniques related to Large Language Models (LLMs). This repository serves as an extension of our lectures, bridging theory and practice in the most interactive way possible.
 
