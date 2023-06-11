@@ -6,16 +6,15 @@ Hello, future LLM enthusiasts! Welcome to the LLM-Utility-Cookbook, a place wher
 
 Here's what we'll be exploring together:
 
-1. **Voice to Text**: We'll unravel the magic behind turning spoken words into written text.
-2. **Text to Voice**: A dive into how we can transform static text into expressive audible speech.
-3. **[Document Scan to Text](https://github.com/Fuenfgeld/LLM-Utility-Cookbook/blob/bada77091ff6eab6dd3647ef1d1ef8005c6801e2/ScanToText.ipynb)**: Learn how to breathe digital life into your physical documents.
-4. **Prompts**: Together, we'll optimize and manage prompts to extract the most from our LLMs.
-5. **Memory**: Get hands-on with persisting states between calls in a chain or agent.
-6. **Indexes**: We'll tinker with loading, querying, and updating external data.
-7. **Chains**: Discover the art of crafting structured sequences of calls to LLMs or other utilities.
-8. **Agents**: Learn to create agents that decide, act, and learn until a task is complete.
-9. **Callbacks**: Dive into the world of debugging and introspection with callbacks.
-
+* [ ] **Voice to Text**: We'll unravel the magic behind turning spoken words into written text.
+* [ ] **Text to Voice**: A dive into how we can transform static text into expressive audible speech.
+* [x] **[Document Scan to Text](https://github.com/Fuenfgeld/LLM-Utility-Cookbook/blob/bada77091ff6eab6dd3647ef1d1ef8005c6801e2/ScanToText.ipynb)**: Learn how to breathe digital life into your physical documents.
+* [ ] **Prompts**: Together, we'll optimize and manage prompts to extract the most from our LLMs.
+* [ ] **Memory**: Get hands-on with persisting states between calls in a chain or agent.
+* [ ] **Indexes**: We'll tinker with loading, querying, and updating external data.
+* [ ] **Chains**: Discover the art of crafting structured sequences of calls to LLMs or other utilities.
+* [ ] **Agents**: Learn to create agents that decide, act, and learn until a task is complete.
+* [ ] **Callbacks**: Dive into the world of debugging and introspection with callbacks.* 
 ## Getting Started 🚀
 
 To join the learning journey, clone this repository or use the google colab links and roll up your sleeves for some coding action.
