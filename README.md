@@ -7,7 +7,7 @@ Hello, future LLM enthusiasts! Welcome to the LLM-Utility-Cookbook, a place wher
 Here's what we'll be exploring together:
 
 * [x] **[Voice to Text](https://github.com/Fuenfgeld/LLM-Utility-Cookbook/blob/2443e5bda6efed5dc015fca435ce8ba587d121ab/VoiceToText.ipynb)**: We'll unravel the magic behind turning spoken words into written text.
-* [ ] **Text to Voice**: A dive into how we can transform static text into expressive audible speech.
+* [x] **[Text to Voice](https://github.com/coqui-ai/TTS/blob/d65819422beabd78b124fda91ea1206ec349b06c/notebooks/Tutorial_1_use-pretrained-TTS.ipynb)**: A dive into how we can transform static text into expressive audible speech.
 * [x] **[Document Scan to Text](https://github.com/Fuenfgeld/LLM-Utility-Cookbook/blob/bada77091ff6eab6dd3647ef1d1ef8005c6801e2/ScanToText.ipynb)**: Learn how to breathe digital life into your physical documents.
 * [ ] **Prompts**: Together, we'll optimize and manage prompts to extract the most from our LLMs.
 * [ ] **Memory**: Get hands-on with persisting states between calls in a chain or agent.
